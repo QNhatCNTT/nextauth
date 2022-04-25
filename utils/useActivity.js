@@ -1,0 +1,22 @@
+export const UserActivity = {
+  _id: "61371196965902807558727a",
+  IdAccount: null,
+  IdDevice: "HRVNxpD64WN3x5-IOG3zO07mqtQQ86MKMPFe6Qr12Yw",
+  timeStamp: {
+    createdAt: "2021-09-07T07:12:26.000Z",
+    updatedAt: "2021-09-07T07:12:26.000Z",
+  },
+  AppVersion: "2.1.0.5053",
+  SystemInfor: "Microsoft Windows 10 Home Single Language, 10.0.19042, 64-bit",
+  IpAdress: "118.70.145.67",
+  IdPlatform: 1,
+  IdBook: null,
+  ScreenId: 1,
+  SeriesId: 32,
+  SupplementId: null,
+  City: "Ho Chi Minh City",
+  Country: "Vietnam",
+  Latitude: "10.8326",
+  Longitude: "106.6581",
+  Region: "Ho Chi Minh",
+};
